@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
-import PokemonData from './components/PokemonData';
-import Route from './components/Route'
-import BattlePage from './components/BattlePage';
-import Header from './components/Header';
-import PokemonById from './components/PokemonById'
+import '../App.css';
+import PokemonData from './PokemonData';
+import Route from './Route'
+import BattlePage from './BattlePage';
+import Header from './Header';
+import PokemonById from './PokemonById'
 
 class App extends React.Component {
   render() {
